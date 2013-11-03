@@ -1,0 +1,3 @@
+#!/bin/bash
+nosetests -i '^it_' -i '_spec.py$' spec/
+
